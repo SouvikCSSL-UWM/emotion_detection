@@ -87,8 +87,5 @@ The test accuracy of different models is compared:
 - Implementing other deep learning models like ResNet or MobileNet.
 
 ## Author
-[Your Name] - [Your GitHub Profile]
-
-## License
-This project is licensed under the MIT License.
+Souvik Roy
 

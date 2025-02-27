@@ -3,6 +3,8 @@
 ## Overview
 This project implements image classification for six emotions using Convolutional Neural Networks (CNNs) and a pre-trained EfficientNetB0 model. The dataset is preprocessed, and multiple models are trained and evaluated to compare their performance.
 
+## Data
+Data data was extracted from kaggle (https://www.kaggle.com/datasets/yousefmohamed20/sentiment-images-classifier/data)
 ## Project Structure
 ```plaintext
 ├── 6 Emotions for image classification/  # Dataset directory

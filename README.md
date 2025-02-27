@@ -74,9 +74,9 @@ The test accuracy of different models is compared:
 ```plaintext
 | Model        | Test Accuracy |
 |-------------|--------------|
-| CNN-1       | X.XXX        |
-| CNN-2       | X.XXX        |
-| Pre-trained | X.XXX        |
+| CNN-1       | 0.432        |
+| CNN-2       | 0.467        |
+| Pre-trained | 0.678        |
 ```
 
 ## Conclusion
